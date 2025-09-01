@@ -1,0 +1,10 @@
+Oque aprendi na imobiliária
+
+•	Vistoriador e Vistoria
+Quando um imóvel vai ser alugado, um vistoriador é enviado para realizar a vistoria de entrada, para registrar o estado inicial do imóvel, e ter a comparação na vistoria de saída, os laudos são registrados na vistoria dentro do sistema no contrato do inquilino, isso serve para proteger tanto o locatário quanto o locador. Já a vistoria (parte administrativa), é encarregada de cuidar dos laudos recebidos feitos pelos vistoriadores, agendar vistorias,  solicitar o orçamento para o prestador e encaminhar o valor para o inquilino, cobrar o prestador caso haja atraso na entrega das chaves, contar chaves e registrar a quantidade no sistema, quando há uma discórdia  sobre o laudo, a vistoria é encarregada de mediar a situação e buscar uma solução, por isso é importante anexar laudos de entrada, saída, revistoria, contestação e etc.
+
+•	Suporte
+Uma parte é encarregada de cuidar das chaves, quando a vistoria não precisa mais da chave ou quando o locador dá o retorno do status do imóvel, as chaves são levadas ao suporte
+
+•	Rescisão
+
